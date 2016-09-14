@@ -1,4 +1,4 @@
-(defproject ymilky/franzy-common "0.0.2-SNAPSHOT"
+(defproject lbradstreet/franzy-common "0.0.2"
             :description "Common resources for Kafka libraries, such as schemas, utility functions, and configuration."
             :url "https://github.com/ymilky/franzy-common"
             :author "ymilky"
